@@ -1,0 +1,11 @@
+.btns__in__navbar {
+    font-size: 18px;
+    border: 1px solid teal;
+    padding: 5px 15px;
+    margin: 3px;
+    color: teal;
+    font-size: 16px;
+    cursor: pointer;
+    background: transparent;
+    text-decoration: none;
+}
